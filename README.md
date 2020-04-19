@@ -52,6 +52,6 @@ Thus, I do not claim to have done UI part by my own. Backend is completely mine 
 Nevertheless, I am really looking forward in learning it, I already started one great online course on that.
 
 Also, frontend has one unsolved problem - delete button is not clickable.
-I really couldn't figure that one out(At the moment), but I will solve it later.
+I really couldn't figure that one out(At the moment), but I promise to solve it later.
 
 
