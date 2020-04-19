@@ -10,6 +10,7 @@ On Linux or Mac:
 4. You should see flask server running on http://127.0.0.1:5001/ 
 
 You cant test it with POSTMAN:
+```
     [GET] '/curr' to get all currencies available in DataBase
     [GET] '/curr/<curr_name> to get specific currency with name <curr_name>
     [POST] '/curr/<curr_name> to post new currency with <curr_name>. 
@@ -20,7 +21,7 @@ You cant test it with POSTMAN:
         }
     [PUT] '/curr/<curr_name> is same as POST but will update the info if it is already present.
     [DELETE] '/curr/<curr_name> to delete specific currency named <curr_name>
-
+```
 On Windows:
 
 1. Go to 'backend/' directory in terminal
@@ -42,7 +43,7 @@ I'm sorry if it doesn't work. I have only tested on Linux
 
 !!! P.S :
 
-    This project was my very first time working in any front-end JS frameworks.
+   This project was my very first time working in any front-end JS frameworks.
 
 I've tried to figure it all out on my own but it obviously takes some more than few days,
 so, I made frontend following this guide: https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs/#flask-setup
