@@ -1,6 +1,7 @@
 Hello!
 
 --------Run the backend server side:------------
+
 On Linux or Mac:
 
 1. Go to 'backend/' directory in terminal
